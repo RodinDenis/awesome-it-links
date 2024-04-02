@@ -7,7 +7,11 @@
 - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - [Java Language Changes](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B)
 - [JDK 21 documentation](https://docs.oracle.com/en/java/javase/21/index.html)
+- [JDK 21 Troubleshooting Guide](https://docs.oracle.com/en/java/javase/21/troubleshoot/general-java-troubleshooting.html#GUID-874F5C55-39A6-4F4D-96CB-266499C0343A)
 - [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
+- [VM Options Explorer](https://chriswhocodes.com/)
+- [The Polyglot Developer Reference](https://codethesaur.us/)
+- [https://javaalmanac.io/](https://javaalmanac.io/)
 
 ## Blogs
 
