@@ -51,12 +51,17 @@
 
 ## YouTube
 
+- [JPoint, Joker и JUG ru](https://www.youtube.com/@JUGru)
 - [Spring Developer](https://www.youtube.com/@SpringSourceDev)
 - [Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg)
 - [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc)
+- [Spring Framework Guru](https://www.youtube.com/c/SpringframeworkGuru)
+- [InfoQ](https://www.youtube.com/@infoq)
+- [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
 - [Josh Long](https://www.youtube.com/@coffeesoftware)
 - [Dan Vega](https://www.youtube.com/@danvega)
 - [Pro Coder](https://www.youtube.com/@ProCoderIO)
+- [Thorben Janssen](https://www.youtube.com/@ThoughtsOnJava)
 - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel)
 - [Ted M. Young, aka JitterTed](https://www.youtube.com/@JitterTed)
 - [Marco Codes](https://www.youtube.com/@MarcoCodes)
