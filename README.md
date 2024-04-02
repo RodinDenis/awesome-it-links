@@ -11,7 +11,7 @@
 - [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 - [VM Options Explorer](https://chriswhocodes.com/)
 - [The Polyglot Developer Reference](https://codethesaur.us/)
-- [https://javaalmanac.io/](https://javaalmanac.io/)
+- [Java Almanac](https://javaalmanac.io/)
 
 ## Blogs
 
