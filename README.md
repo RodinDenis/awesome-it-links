@@ -2,16 +2,23 @@
 
 ## Java core
 
+- [JVM and Java Language Specification, Oracle](https://docs.oracle.com/javase/specs/)
 - [Oracle Java tutorial](https://docs.oracle.com/javase/tutorial/index.html)
 - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - [Java Language Changes](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B)
 - [JDK 21 documentation](https://docs.oracle.com/en/java/javase/21/index.html)
+- [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 
 ## Blogs
 
 - [dev.java](https://dev.java/)
 - [Baeldung](https://www.baeldung.com/)
 - [Digital Ocean](https://www.digitalocean.com/community/tags/spring)
+- [Java Code Geeks](http://www.javacodegeeks.com/)
+- [DZone](https://dzone.com/java)
+- [Java challengers](https://javachallengers.com/)
+- [Jenkov](https://jenkov.com/)
+- [Java World](https://www.javaworld.com/)
 - [Reflectoring](https://reflectoring.io/)
 - [JavaTpoint](https://www.javatpoint.com/spring-tutorial)
 - [TutorialsPoint](https://www.tutorialspoint.com/spring/index.htm)
@@ -20,6 +27,8 @@
 - [How To Do In Java](https://howtodoinjava.com/series/spring-boot/)
 - [Mkyong Spring Boot](https://mkyong.com/tutorials/spring-boot-tutorials/)
 - [StackTips Spring Boot](https://stacktips.com/topics/spring-boot)
+- [Java to novice](http://www.java2novice.com)
+- [Java revisited](http://javarevisited.blogspot.ie/)
 
 ## Spring
 
@@ -55,3 +64,12 @@
 - [Devtiro](https://www.youtube.com/@devtiro)
 - [Simon Martinelli](https://www.youtube.com/@simonmartinelli)
 - [Maciej Walkowiak](https://www.youtube.com/springacademy)
+
+## SPECS
+1. [gRPC](https://grpc.io/)
+2. [GraphQL](https://graphql.org/)
+3. [JSON](https://www.json.org/)
+4. [XML](https://www.w3.org/XML/)
+5. [YAML](https://yaml.org/)
+6. [AVRO](https://avro.apache.org/)
+7. [ProtoBuf](https://protobuf.dev/)
