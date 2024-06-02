@@ -82,3 +82,9 @@
 5. [YAML](https://yaml.org/)
 6. [AVRO](https://avro.apache.org/)
 7. [ProtoBuf](https://protobuf.dev/)
+
+## Cheat Sheets
+- [overapi](https://overapi.com/)
+- [cheat-sheets](https://www.cheat-sheets.org/)
+- [codecademy](https://www.codecademy.com/resources/cheatsheets/all)
+- [owasp](https://cheatsheetseries.owasp.org/index.html)
