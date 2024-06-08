@@ -83,6 +83,10 @@
 6. [AVRO](https://avro.apache.org/)
 7. [ProtoBuf](https://protobuf.dev/)
 
+## JavaFX
+1. [openjfx](https://openjfx.io/)
+2. [jfx-central](https://www.jfx-central.com/)
+
 ## Cheat Sheets
 - [overapi](https://overapi.com/)
 - [cheat-sheets](https://www.cheat-sheets.org/)
